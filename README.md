@@ -1,4 +1,6 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
+# Name: Saranya S 
+# Register number: 212223110044
 
 # AIM:
 To create UML diagrams for Student Online Exam Registration System
